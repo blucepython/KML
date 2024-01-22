@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kml>
+  <Document>
+    <name>S600 TDD</name>
+    <description>U-Net generated kml file</description>
+    <open>1</open>
+    <NetworkLink>
+      <name>Sites</name>
+      <open>0</open>
+      <visibility>1</visibility>
+      <Link>
+        <href>files\78cc71aa-ef8a-4863-98bc-9765e139126e.kml</href>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <name>Cells</name>
+      <open>0</open>
+      <visibility>1</visibility>
+      <Link>
+        <href>files\5d1bdfed-3c72-4628-9f8c-955e507e75d3.kml</href>
+      </Link>
+    </NetworkLink>
+    <Folder>
+      <name>Predictions</name>
+      <open>0</open>
+      <visibility>1</visibility>
+      <Folder>
+        <name>LTE-2300MHz_75Sites</name>
+        <open>0</open>
+        <visibility>1</visibility>
+        <Folder>
+          <name>DL RSRP</name>
+          <open>0</open>
+          <visibility>1</visibility>
+          <NetworkLink>
+            <name>-100&lt;DL RSRP(dBm)&lt;=0</name>
+            <open>0</open>
+            <visibility>1</visibility>
+            <Link>
+              <href>files\24407b8e-b0c9-4d9b-b757-a09ad168e39d.kml</href>
+            </Link>
+          </NetworkLink>
+          <NetworkLink>
+            <name>-105&lt;DL RSRP(dBm)&lt;=-100</name>
+            <open>0</open>
+            <visibility>1</visibility>
+            <Link>
+              <href>files\92f3e1ef-f552-4ed2-819e-0e9518dc63c2.kml</href>
+            </Link>
+          </NetworkLink>
+        </Folder>
+      </Folder>
+    </Folder>
+    <LookAt>
+      <longitude>112.630810395904</longitude>
+      <latitude>2.92319378086144</latitude>
+      <range>20000</range>
+      <tilt>10</tilt>
+      <heading>0</heading>
+    </LookAt>
+  </Document>
+</kml>
